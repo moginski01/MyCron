@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -g   CMakeFiles/MyCron.dir/main.c.o CMakeFiles/MyCron.dir/log.c.o  -o MyCron  /usr/lib/x86_64-linux-gnu/librt.so 
